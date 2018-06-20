@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=Vqple_TvaQA&t=613s
 1:21:00 SVG-конвертер
 _____
 1:24:10 устоновка и подключение jQuery
--:--:-- устоновка и подключение Bootstrap
+-:--:-- устоновка и подключение Bootstrap 11
