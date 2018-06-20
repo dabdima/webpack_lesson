@@ -1,7 +1,7 @@
 {
-  "name": "tempNoGit_incode_test_redux",
+  "name": "webpack_lesson",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack lesson (20.06.18). See info and content in lesson_info.txt",
   "main": "src/js/app.js",
   "scripts": {
     "build": "webpack",
